@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazansancar.ramazansancar">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sezginildes.sezginildes">
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ramazan+Sancar....;Nice+to+meet+you!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sezgim+İldeş....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
 
@@ -25,7 +25,7 @@
     <br>
     📚 I’m currently learning how to analyze Education Website with Python and SQL
     <br>
-    💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
+    💬 Ask me anything about from <a href="https://github.com/sezginildes/sezginildes/issues" title="Issues">Here</a>
     <br>
     📫 How to reach me: <a href="mailto: sezgin.ildes@gmail.com">sezgin.ildes@gmail.com</a>
   </p>
@@ -34,24 +34,15 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
+ 
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/javascript.svg"></code>
+
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
-    <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
+
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/vscode.png"></code>
-    <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/visualstudio.png"></code>
-    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/jquery-original.svg"></code>
-    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
-    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
+
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
-    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/npm.svg"></code>
-    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/php.svg"></code>
-    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
   </p>
   <hr>
 
