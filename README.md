@@ -2,7 +2,7 @@
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sezgim+İldeş....;Nice+to+meet+you!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sezgin+İldeş....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
 
@@ -34,13 +34,9 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
- 
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
   </p>
@@ -76,12 +72,12 @@
   </div>
   <br><br><br><br><br><br>
   <h4 align="center">
-    <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+    <a href="https://github.com/sezginildes?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
   
 
   <!--
-  **ramazansancar/ramazansancar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **sezginildes/sezginildes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Here are some ideas to get you started:
 
@@ -97,6 +93,5 @@
 
   Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
 
-  ![Metrics](https://metrics.lecoq.io/ramazansancar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
+  
   -->
