@@ -2,7 +2,7 @@
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sezgim+İldeş....;Nice+to+meet+you!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sezgin+İldeş....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
 
@@ -21,9 +21,9 @@
     🔬 I'm currently studying in Istanbul University Psychological Counselor
     <br>
      <br>
-    💻 I love writing code and learn Psychology about it
+    💻 I love writing code and learning Psychology 
     <br>
-    📚 I’m currently learning how to analyze Education Website with Python and SQL
+    📚 I’m currently learning Python and SQL
     <br>
     💬 Ask me anything about from <a href="https://github.com/sezginildes/sezginildes/issues" title="Issues">Here</a>
     <br>
@@ -36,11 +36,8 @@
   <p align="center">
  
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
   </p>
@@ -60,7 +57,7 @@
     <br><br><br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazansancar&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazansancar&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
     </div>
     <br>
