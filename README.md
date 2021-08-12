@@ -9,7 +9,7 @@
   <h5 align="center">
     <code>
       <a href="https://www.linkedin.com/in/sezginildes/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/sezgin_ildes" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://www.hackerrank.com/sezginildes" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://www.kaggle.com/sezginildes" title="Kaggle Profile"><img width="22" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png"> Kaggle</a></code>
     <code><a href="https://www.instagram.com/sezgin.ildes/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
   </h5>
