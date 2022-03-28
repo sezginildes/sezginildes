@@ -18,7 +18,7 @@
     Hi, I'm Sezgin İldeş, Data Analyst from Turkey
     <br>
     <br>
-    🔬 I am currently studying Psychological Counseling at Istanbul University.
+    🔬 I am currently studying Psychological Counseling at Yildiz Technical University.
     <br>
      <br>
     💻 I love writing code and learning Psychology 
