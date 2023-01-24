@@ -15,7 +15,7 @@
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Sezgin İldeş, HR Generalist & Data Analyst from Turkey
+    Hi, I'm Sezgin İldeş, HR Generalist in innoscripta GmbH & Data Analyst from Turkey
     <br>
     <br>
     🔬 I am currently studying Psychological Counseling at Yildiz Technical University.
