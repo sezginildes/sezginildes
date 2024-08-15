@@ -18,7 +18,7 @@
     Hi, I'm Sezgin İldeş, HR Generalist in miuul from Turkey
     <br>
     <br>
-    🔬 I am currently studying Psychological Counseling at Yildiz Technical University.
+    🔬 I studied Psychological Counseling at Yıldız Technical University..
     <br>
      <br>
     💻 I love writing code and learning Psychology 
