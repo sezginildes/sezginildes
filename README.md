@@ -11,19 +11,19 @@
       <a href="https://www.linkedin.com/in/sezginildes/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/sezginildes" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://www.kaggle.com/sezginildes" title="Kaggle Profile"><img width="22" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png"> Kaggle</a></code>
-    <code><a href="https://www.instagram.com/sezgin.ildes/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.instagram.com/sezginildes/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
   </h5>
   <br>
   <p align="center">
     Hi, I'm Sezgin İldeş, HR Generalist in miuul from Turkey
     <br>
     <br>
-    🔬 I studied Psychological Counseling at Yıldız Technical University..
+    🔬 Studied Psychological Counseling at Yıldız Technical University..
     <br>
      <br>
-    💻 I love writing code and learning Psychology 
+    💻 Love writing code and learning Psychology 
     <br>
-    📚 I’m currently learning Python and SQL
+    📚 Currently learning Python and SQL
     <br>
     💬 Ask me anything about from <a href="https://github.com/sezginildes/sezginildes/issues" title="Issues">Here</a>
     <br>
