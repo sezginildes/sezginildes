@@ -1,19 +1,19 @@
 ## Merhaba / Hello 👋
 
-I'm **Sezgin İldeş** — a **People Development Specialist** based in Istanbul.  
+I'm **Sezgin İldeş** -- a **People Development Specialist** based in Istanbul.  
 I bridge behavioral science with data tools and design to build systems that make organizational growth measurable and lasting.
 
-> *"The moment growth becomes visible — that's what drives me."*
+> *"The moment growth becomes visible -- that's what drives me."*
 
 ---
 
 ### 🧠 What I do
 
-- 🎓 **L&D & People Development** — curriculum design, psycho-educational programs, structured development frameworks
-- 👥 **Coaching & Facilitation** — 120+ seminars, career coaching, group dynamics
-- 📊 **Learning Analytics** — Excel dashboards → Power BI; data-driven development tracking
-- 🎮 **System Design** — gamified learning tools, stakeholder feedback loops, habit-tracking systems
-- 🤖 **AI in L&D** — Gemini-assisted learning design & workflow automation
+- 🎓 **L&D & People Development** -- curriculum design, psycho-educational programs, structured development frameworks
+- 👥 **Coaching & Facilitation** -- 120+ seminars, career coaching, group dynamics
+- 📊 **Learning Analytics** -- Excel dashboards → Power BI; data-driven development tracking
+- 🎮 **System Design** -- gamified learning tools, stakeholder feedback loops, habit-tracking systems
+- 🤖 **AI in L&D** -- Gemini-assisted learning design & workflow automation
 
 ---
 
@@ -27,9 +27,9 @@ I bridge behavioral science with data tools and design to build systems that mak
 
 | Project | What it does |
 |---|---|
-| [Quest Journal](https://sezginildes.github.io/quest-journal) | Gamification-based personal development app — daily check-ins, goal tracking, progress visualization |
+| [Quest Journal](https://sezginildes.github.io/quest-journal) | Gamification-based personal development app -- daily check-ins, goal tracking, progress visualization |
 | [Odak Takip](https://sezginildes.github.io/odak-takip) | Structured daily observation form for parent–coach feedback loops |
-| [Portfolio](https://sezginildes.github.io) | Full portfolio — experience, tools, writing |
+| [Portfolio](https://sezginildes.github.io) | Full portfolio -- experience, tools, writing |
 
 ---
 
