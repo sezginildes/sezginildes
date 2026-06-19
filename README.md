@@ -45,7 +45,7 @@ I bridge behavioral science with data tools and design to build systems that mak
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sezginildes-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sezginildes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sezginildes.github.io-2d6a4f?style=flat&logo=github)](https://sezginildes.github.io)
-[![Calendly](https://img.shields.io/badge/Book_a_call-Calendly-006BFF?style=flat&logo=calendly)](https://calendly.com/sezginildes)
+[![Calendly](https://img.shields.io/badge/Book_a_call-Calendly-006BFF?style=flat&logo=calendly)](https://calendly.com/sezgin-ildes)
 [![Email](https://img.shields.io/badge/Email-sezgin.ildes@gmail.com-D14836?style=flat&logo=gmail)](mailto:sezgin.ildes@gmail.com)
 
 ---
